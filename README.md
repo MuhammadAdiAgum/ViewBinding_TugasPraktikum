@@ -1,4 +1,1 @@
-# ViewBinding_TugasPraktikum
-Tugas Implementasi View Binding
 
-GENERATE TOKEN PRIBADI UNTUK MENCOBA, MASUKKAN DI INTERFACE "Api" YANG BERADA DI DALAM PROJECT
